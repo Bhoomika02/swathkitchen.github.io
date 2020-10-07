@@ -82,3 +82,7 @@
 {
     background-color: rgb(247, 232, 214);
 }
+.carousel-item>img
+{
+    height: 20px;
+}
